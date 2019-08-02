@@ -4,6 +4,6 @@
 /.build
 .DS_Store
 DerivedData
-/PromiseKit.podspec
+#PromiseKit.podspec
 /Extensions/Carthage
 /Tests/JS-A+/build
